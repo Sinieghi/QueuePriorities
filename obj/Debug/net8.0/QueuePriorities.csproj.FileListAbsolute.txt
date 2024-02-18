@@ -1,0 +1,14 @@
+e:\DOC\Data_structure-algorithms\code_snippet\QueuePriorities\bin\Debug\net8.0\QueuePriorities.exe
+e:\DOC\Data_structure-algorithms\code_snippet\QueuePriorities\bin\Debug\net8.0\QueuePriorities.deps.json
+e:\DOC\Data_structure-algorithms\code_snippet\QueuePriorities\bin\Debug\net8.0\QueuePriorities.runtimeconfig.json
+e:\DOC\Data_structure-algorithms\code_snippet\QueuePriorities\bin\Debug\net8.0\QueuePriorities.dll
+e:\DOC\Data_structure-algorithms\code_snippet\QueuePriorities\bin\Debug\net8.0\QueuePriorities.pdb
+e:\DOC\Data_structure-algorithms\code_snippet\QueuePriorities\obj\Debug\net8.0\QueuePriorities.GeneratedMSBuildEditorConfig.editorconfig
+e:\DOC\Data_structure-algorithms\code_snippet\QueuePriorities\obj\Debug\net8.0\QueuePriorities.AssemblyInfoInputs.cache
+e:\DOC\Data_structure-algorithms\code_snippet\QueuePriorities\obj\Debug\net8.0\QueuePriorities.AssemblyInfo.cs
+e:\DOC\Data_structure-algorithms\code_snippet\QueuePriorities\obj\Debug\net8.0\QueuePriorities.csproj.CoreCompileInputs.cache
+e:\DOC\Data_structure-algorithms\code_snippet\QueuePriorities\obj\Debug\net8.0\QueuePriorities.dll
+e:\DOC\Data_structure-algorithms\code_snippet\QueuePriorities\obj\Debug\net8.0\refint\QueuePriorities.dll
+e:\DOC\Data_structure-algorithms\code_snippet\QueuePriorities\obj\Debug\net8.0\QueuePriorities.pdb
+e:\DOC\Data_structure-algorithms\code_snippet\QueuePriorities\obj\Debug\net8.0\QueuePriorities.genruntimeconfig.cache
+e:\DOC\Data_structure-algorithms\code_snippet\QueuePriorities\obj\Debug\net8.0\ref\QueuePriorities.dll
